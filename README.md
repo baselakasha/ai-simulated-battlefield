@@ -1,6 +1,6 @@
 # Designing Intelligent Agents: Comparing Learning Strategies and Command Structures in a Simulated Battlefield
 
-> Note: The source code and full report are not public to prevent future academic infringement, as this was an academic coursework. If you have any queries about the implementation please get in touch. You can try the code at [https://baselakasha.github.io/dia-cw/](https://baselakasha.github.io/dia-cw/)
+Note: The source code and full report are not publicly available to prevent academic infringement, as this was an academic coursework. If you have any queries about the implementation, please get in touch. You can try the code at [https://baselakasha.github.io/dia-cw/](https://baselakasha.github.io/dia-cw/)
 
 This project explores the design and comparison of multi-agent strategies in a custom-built 2D battlefield simulation. I implemented heuristic-based, commander-coordinated, and reinforcement learning (DQN) agents, then analyzed how these approaches affect team coordination, resource management, and overall performance.
 
@@ -8,9 +8,9 @@ The environment was implemented as a web-based 2D simulation using Phaser.js. Ph
 
 ![![Simulation Screenshot](images/screenshot.png)
 
-The code was written in Object oriented Programming (OOP) to ensure code reusability and better organisation.
+The code was written in object-oriented Programming (OOP) to ensure code reusability and better organisation.
 
-Behaviors are agnostic to agents. Agents behaviours can be changed during runtime which allows to set experiments and answer the proposed questions.
+Behaviours are agnostic to agents. Agents behaviours can be changed during runtime which allows to set experiments and answer the proposed questions.
 
 
 ## Results Summary
